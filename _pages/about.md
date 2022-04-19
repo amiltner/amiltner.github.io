@@ -21,9 +21,9 @@ Selected Publications
 * [On the Fly Synthesis of Edit Suggestions](https://www.cs.utexas.edu/~amiltner/blue-pencil.pdf)
 * [Synthesizing Bijective Lenses](https://www.cs.utexas.edu/~amiltner/optician.pdf)
 
-Updates
+Recent Updates
 ======
-12/27/22
+12/27/21
 :   Bottom-up Synthesis of Recursive Functional Programs using Angelic Execution received a distinguished paper award.
 
 9/27/21
